@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/R8BNpY6qUlzXj1sEyR1m8ITYbP3lNaFa/B1Izb6+J2GKTUt10R3AU5pj2j101ReC47BlAQ1Ji96W49P8H6hA==",
+  "success": true,
+  "projectFilePath": "D:\\PROYECTOS C#\\EditorM3u\\EditorM3u\\EditorM3u\\EditorM3u.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g3v3r\\.nuget\\packages\\dropbox.api\\7.0.0\\dropbox.api.7.0.0.nupkg.sha512",
+    "C:\\Users\\g3v3r\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

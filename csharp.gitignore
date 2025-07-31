@@ -1,0 +1,10 @@
+## .gitignore para C# (Visual Studio)
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+packages/
+.vs/

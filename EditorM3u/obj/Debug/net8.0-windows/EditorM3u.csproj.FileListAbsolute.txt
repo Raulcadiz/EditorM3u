@@ -1,0 +1,50 @@
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.exe
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.deps.json
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.runtimeconfig.json
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.dll
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.pdb
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\Dropbox.Api.dll
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u_MarkupCompile.cache
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.g.resources
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.csproj.Up2Date
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.dll
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\refint\EditorM3u.dll
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.pdb
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\ref\EditorM3u.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.exe
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.deps.json
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.runtimeconfig.json
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\EditorM3u.pdb
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\Dropbox.Api.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.csproj.AssemblyReference.cache
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\MainWindow.baml
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\App.g.cs
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u_MarkupCompile.cache
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.g.resources
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.AssemblyInfoInputs.cache
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.AssemblyInfo.cs
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.csproj.CoreCompileInputs.cache
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.csproj.Up2Date
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\refint\EditorM3u.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.pdb
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u.genruntimeconfig.cache
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\ref\EditorM3u.dll
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\ReorderWindow.g.cs
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u_MarkupCompile.lref
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\ReorderWindow.baml
+D:\PROYECTOS C#\EditorM3u\EditorM3u\EditorM3u\obj\Debug\net8.0-windows\EditorM3u_Content.g.cs

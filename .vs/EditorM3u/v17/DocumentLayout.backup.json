@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\EditorM3u\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7FC045-E64F-44E3-AB84-888E81E280A9}|EditorM3u\\EditorM3u.csproj|c:\\users\\administrator\\source\\repos\\editorm3u\\editorm3u\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D7FC045-E64F-44E3-AB84-888E81E280A9}|EditorM3u\\EditorM3u.csproj|solutionrelative:editorm3u\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7FC045-E64F-44E3-AB84-888E81E280A9}|EditorM3u\\EditorM3u.csproj|c:\\users\\administrator\\source\\repos\\editorm3u\\editorm3u\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7FC045-E64F-44E3-AB84-888E81E280A9}|EditorM3u\\EditorM3u.csproj|solutionrelative:editorm3u\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EditorM3u\\EditorM3u\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EditorM3u\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EditorM3u\\EditorM3u\\MainWindow.xaml*",
+              "RelativeToolTip": "EditorM3u\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T15:30:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EditorM3u\\EditorM3u\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditorM3u\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EditorM3u\\EditorM3u\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "EditorM3u\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA8wBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:30:39.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
